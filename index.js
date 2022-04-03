@@ -95,11 +95,5 @@ class CryogenLabrotory extends Labrotory {
   }
 }
 let allInfo = new CryogenLabrotory({
-  numberOfHospital: 2,
-  numberOfStuff: 25,
-  isOpened: true,
-  directorofLab: "denis",
-  Labstatus: "close",
-  isCryogen: false,
 });
 console.log(allInfo);
