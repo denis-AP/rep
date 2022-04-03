@@ -94,6 +94,5 @@ class CryogenLabrotory extends Labrotory {
     });
   }
 }
-let allInfo = new CryogenLabrotory({
-});
+let allInfo = new CryogenLabrotory({});
 console.log(allInfo);
